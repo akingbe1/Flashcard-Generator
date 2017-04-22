@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "week 11 homework",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akingbe1/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Benga Akingbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akingbe1/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/akingbe1/Flashcard-Generator#readme"
+}
